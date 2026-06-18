@@ -113,7 +113,7 @@ Returns a welcome message and all available endpoints.
 ```json
 {
   "fullName": "Ali Hassan",
-  "email": "ali@example.com",
+  "email": "ali@gmail.com",
   "university": "FAST NUCES",
   "cgpa": 3.5,
   "status": "Applied"
@@ -129,7 +129,7 @@ Returns a welcome message and all available endpoints.
   "data": {
     "id": 1,
     "fullName": "Ali Hassan",
-    "email": "ali@example.com",
+    "email": "ali@gmail.com",
     "university": "FAST NUCES",
     "cgpa": 3.5,
     "status": "Applied",
@@ -182,7 +182,7 @@ Returns a welcome message and all available endpoints.
   "data": {
     "id": 1,
     "fullName": "Ali Hassan",
-    "email": "ali@example.com",
+    "email": "ali@gmail.com",
     "university": "FAST NUCES",
     "cgpa": 3.5,
     "status": "Applied"
