@@ -48,7 +48,7 @@ internship-api-v2/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/internship-api.git
+https://github.com/KapeelDev3/Internship-Applicant-Management-API
 cd internship-api
 
 # 2. Install dependencies
